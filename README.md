@@ -105,8 +105,6 @@ Which one are you?
 █████████████████████████████████████ 100%
 ```
 
-### The NEXUS Group
-
 ---
 
 <details> 
@@ -213,4 +211,8 @@ Which one are you?
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+### The NEXUS Group
+
 </div>
+
